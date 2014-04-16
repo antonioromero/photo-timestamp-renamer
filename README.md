@@ -11,3 +11,10 @@ You can simply run the script with the directory as parameter:
 ```
 python photo-timestamp-renamer.py /home/user/a-directory-with-photos
 ```
+
+What do I need to run it?
+-------------------------
+You only need the the PIL module. You can get it using pip: 
+```
+pip install PIL
+```
