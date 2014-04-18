@@ -14,7 +14,8 @@ python photo-timestamp-renamer.py /home/user/a-directory-with-photos
 
 What do I need to run it?
 -------------------------
-You only need the the PIL module. You can get it using pip: 
+You only need the the PIL module. You can get Pillow instead PIL using pip as recomended [here](http://stackoverflow.com/questions/20060096/installing-pil-with-pip#answer-20061019).
+
 ```
-pip install PIL
+pip install Pillow
 ```
